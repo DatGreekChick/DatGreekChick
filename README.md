@@ -33,7 +33,7 @@ learn, get a thrill when teaching others, and really dig pair programming.
 
 ### Stats 📈
 
-![GitHub Stats] [![GitHub Streak]][streak stats]
+![GitHub Stats] [![GitHub Streak]][streak stats] ![Profile Views Counter]
 
 [here]: https://www.youtube.com/watch?v=45zN5WnKEgo
 [twitter]: https://twitter.com/datgreekchick
@@ -45,3 +45,5 @@ learn, get a thrill when teaching others, and really dig pair programming.
 [github streak]:
   https://github-readme-streak-stats.herokuapp.com?user=DatGreekChick&theme=algolia&date_format=j%20M%5B%20Y%5D
 [streak stats]: https://git.io/streak-stats
+[profile views counter]:
+  https://komarev.com/ghpvc/?username=DatGreekChick&color=blue
