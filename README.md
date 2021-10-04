@@ -10,7 +10,7 @@ tracking diversity initiatives. I'm an engaging speaker, produce minimalist
 code, write killer documentation, and test everything. I absolutely love to
 learn, get a thrill when teaching others, and really dig pair programming.
 
-### Programming Languages
+### Programming Languages ⌨️
 
 |    I Know Well     | I've Tried for Fun | I Want to Learn |
 | :----------------: | :----------------: | :-------------: |
@@ -18,12 +18,20 @@ learn, get a thrill when teaching others, and really dig pair programming.
 | JavaScript/Node.js |        Java        |      Swift      |
 |        C++         |                    |     Kotlin      |
 
-### Where to Find Me
+### Where to Find Me 🔎
+
+<img align="left" width="150" height="190" alt="MyOctocat" src="https://user-images.githubusercontent.com/13057589/135778322-81079199-4ad9-4c62-b11f-5c193a42454c.png" />
 
 - :bird: [Twitter]
 - :book: [Medium]
 - :briefcase: [LinkedIn]
 - :computer: [Personal Website]
+
+</br>
+</br>
+</br>
+
+### Stats 📈
 
 ![GitHub Stats] [![GitHub Streak]][streak stats]
 
