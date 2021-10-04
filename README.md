@@ -10,21 +10,13 @@ tracking diversity initiatives. I'm an engaging speaker, produce minimalist
 code, write killer documentation, and test everything. I absolutely love to
 learn, get a thrill when teaching others, and really dig pair programming.
 
-### Languages I Know Well
+### Programming Languages
 
-- Python
-- JavaScript/Node.js
-- C++
-
-### Languages I've Tried for Fun
-
-- Rust
-- Java
-
-### Languages I Want to Learn
-
-- Go
-- Swift
+|    I Know Well     | I've Tried for Fun | I Want to Learn |
+| :----------------: | :----------------: | :-------------: |
+|       Python       |        Rust        |       Go        |
+| JavaScript/Node.js |        Java        |      Swift      |
+|        C++         |                    |     Kotlin      |
 
 ### Where to Find Me
 
