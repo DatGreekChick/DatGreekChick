@@ -20,6 +20,7 @@ learn, get a thrill when teaching others, and really dig pair programming.
 
 ### Where to Find Me 🔎
 
+<br/>
 <img align="left" width="150" height="190" alt="MyOctocat" src="https://user-images.githubusercontent.com/13057589/135778322-81079199-4ad9-4c62-b11f-5c193a42454c.png" />
 
 - :bird: [Twitter]
@@ -27,13 +28,16 @@ learn, get a thrill when teaching others, and really dig pair programming.
 - :briefcase: [LinkedIn]
 - :computer: [Personal Website]
 
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Stats 📈
 
-![GitHub Stats] [![GitHub Streak]][streak stats] ![Profile Views Counter]
+![GitHub Stats] [![GitHub Streak]][streak stats]
+
+![Profile Views Counter]
 
 [here]: https://www.youtube.com/watch?v=45zN5WnKEgo
 [twitter]: https://twitter.com/datgreekchick
