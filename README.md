@@ -43,7 +43,7 @@ learn, get a thrill when teaching others, and really dig pair programming.
 [twitter]: https://twitter.com/datgreekchick
 [medium]: https://datgreekchick.medium.com/
 [linkedin]: https://www.linkedin.com/in/eleniarvanitis/
-[personal website]: https://www.eleniarvanitis.com
+[personal website]: https://eleniarvanitis.com
 [github stats]:
   https://github-readme-stats.vercel.app/api?username=datgreekchick&count_private=true&theme=algolia&show_icons=true
 [github streak]:
