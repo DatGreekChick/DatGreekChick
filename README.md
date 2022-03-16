@@ -5,10 +5,11 @@ I'm that Greek chick! To figure out how to pronounce my name, please click
 
 Every day I get to ride the insatiable roller coaster that is software
 engineering! I've built extensible Python pip packages, streamlined aggregation
-engines in C++, valuable HTTP REST APIs using Flask, beautiful React frontends
-tracking diversity initiatives. I'm an engaging speaker, produce minimalist
-code, write killer documentation, and test everything. I absolutely love to
-learn, get a thrill when teaching others, and really dig pair programming.
+engines in C++, created valuable HTTP REST APIs using Flask, designed beautiful
+React frontends tracking diversity initiatives. I'm an engaging speaker, produce
+minimalist code, write killer documentation, and test everything. I absolutely
+love to learn, get a thrill when teaching others, and really dig pair
+programming.
 
 ### Programming Languages ⌨️
 
