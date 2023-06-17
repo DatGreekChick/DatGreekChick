@@ -18,7 +18,7 @@ programming.
 |        Python         |    Go    |     Rust      |     Swift     |
 |  JavaScript/Node.js   |  Scala   |     Java      |    Kotlin     |
 |          C++          |          |               |               |
-|     Ruby / Rails      |          |               |               |
+|         Ruby          |          |               |               |
 
 <!-- <img align="left" width="150" height="190" alt="MyOctocat" src="https://user-images.githubusercontent.com/13057589/135778322-81079199-4ad9-4c62-b11f-5c193a42454c.png" /> -->
 
