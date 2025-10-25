@@ -5,18 +5,22 @@ I'm that Greek chick! To figure out how to pronounce my name, please click
 
 Every day I get to ride the insatiable roller coaster that is software
 engineering! I've built extensible Python pip packages, streamlined aggregation
-engines in C++, created valuable HTTP REST APIs using Flask, designed beautiful
-React frontends with millions of monthly hits. I'm an engaging speaker, produce
-minimalist code, write killer documentation, and test everything. I absolutely
-love to learn, get a thrill when teaching others, and really dig pair
-programming.
+engines in C++, created valuable HTTP REST APIs using Flask or Rails, designed
+beautiful React frontends with millions of monthly hits. I'm an engaging
+speaker, produce minimalist code, design simple but powerful systems, write
+killer documentation, and test everything. I absolutely love to learn, get a
+thrill when teaching others, and really dig pair programming.
+
+Presently, I'm working as a Senior Staff Software Engineer focused on building
+elegant and intelligent customer experiences, leading cross-company
+collaboration, and driving performance improvements at Cisco Systems!
 
 ### Programming Languages ⌨️
 
 | Know Well / Work With | Learning | Tried for Fun | Want to Learn |
 |:---------------------:|:--------:|:-------------:|:-------------:|
 |        Python         |    Go    |     Rust      |     Swift     |
-|  JavaScript/Node.js   |  Scala   |     Java      |    Kotlin     |
+|    JavaScript/Node    |  Scala   |     Java      |    Kotlin     |
 |          C++          |          |               |               |
 |         Ruby          |          |               |               |
 
