@@ -28,12 +28,12 @@ evangelizing what it means to go AI-first at enterprise scale.
 
 ### AI Ecosystem 🤖
 
-|      Models      | Frameworks | Daily Drivers |
-| :--------------: | :--------: | :-----------: |
-|    Anthropic     |  fastMCP   |    Cursor     |
-|      OpenAI      |            |     Codex     |
-|      Google      |            |               |
-| Cisco Custom LLM |            |               |
+|   Models    | Frameworks |   Tools   |
+| :---------: | :--------: | :-------: |
+|  Anthropic  |  fastMCP   |  Cursor   |
+|    OpenAI   |            |   Codex   |
+|    Google   |            |           |
+|  Cisco LLM  |            |           |
 
 <!-- <img align="left" width="150" height="190" alt="MyOctocat" src="https://user-images.githubusercontent.com/13057589/135778322-81079199-4ad9-4c62-b11f-5c193a42454c.png" /> -->
 
