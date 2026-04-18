@@ -7,7 +7,7 @@ Every day I get to ride the insatiable roller coaster that is software
 engineering. I've been strapped in for the AI wave since day one, building
 industry-first AI-powered network intelligence products, growing and leading
 teams around them, shipping MCP servers at both product and company scale, and
-evangelizing AI-first thinking across a Fortune 50. Before all that, I built
+evangelizing AI-first thinking across a Fortune 100. Before all that, I built
 extensible Python packages, C++ aggregation engines, REST APIs, React frontends
 with millions of monthly hits. I'm an engaging speaker, produce minimalist code,
 design simple but powerful systems, write killer documentation, test everything,
@@ -28,12 +28,12 @@ evangelizing what it means to go AI-first at enterprise scale.
 
 ### AI Ecosystem 🤖
 
-|   Models    | Frameworks |   Tools   |
-| :---------: | :--------: | :-------: |
-|  Anthropic  |  fastMCP   |  Cursor   |
-|    OpenAI   |            |   Codex   |
-|    Google   |            |           |
-|  Cisco LLM  |            |           |
+|  Models   | Frameworks |    Clients     |    MCP     |   Plugins   |
+| :-------: | :--------: | :------------: | :--------: | :---------: |
+| Anthropic |  fastMCP   |     Cursor     | Atlassian  | Superpowers |
+|  OpenAI   |            |     Codex      |  context7  |             |
+|  Google   |            |     Claude     | Lighthouse |             |
+|   Cisco   |            | GitHub Copilot |   Figma    |             |
 
 <!-- <img align="left" width="150" height="190" alt="MyOctocat" src="https://user-images.githubusercontent.com/13057589/135778322-81079199-4ad9-4c62-b11f-5c193a42454c.png" /> -->
 
